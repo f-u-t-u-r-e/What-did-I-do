@@ -1,0 +1,7 @@
+pywin32
+psutil
+pystray
+pillow
+pandas
+matplotlib
+mplcursors
