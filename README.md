@@ -47,11 +47,10 @@ Windows 桌面使用追踪器：记录今日前台窗口使用区间到按日 CS
 what-did-i-do/
 ├── start.cmd                   # 一键启动（托盘+GUI）
 ├── README.md                   # 项目说明（本文件）
-├── requirments.txt             # 依赖（拼写有意）
+├── requirments.txt             # 依赖
 ├── tracker.py                  # 托盘采集器：记录窗口区间
 ├── stats.py                    # 统计与可视化（柱状图/饼图）
-├── app.pyw                     # GUI（可选）
-├── assets/                     # 保存图表 PNG
+├── app.pyw                     # GUI
 └── data/                       # 每日 CSV（例：2025-12-15.csv）
 ```
 
